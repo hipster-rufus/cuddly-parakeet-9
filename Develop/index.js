@@ -31,9 +31,9 @@ const questions = [
         message: 'What kind of license does your project have?',
         choices: [
             'MIT',
-            'APACHE 2.0',
-            'GPL 3.0',
-            'BSD 3',
+            'APACHE',
+            'GPL',
+            'BSD',
             'none'
         ]
     },
