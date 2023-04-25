@@ -18,6 +18,10 @@ To install my project, you will need to clone my repository from GitHub onto a l
 Once the repo has been cloned, run the program through your terminal: `node index.js`.
 This will prompt a series of questions which will populate your new README.md. Once every question has been answered, your markdown file will generate and save into the same folder, ready to go!
 
+To watch a full demonstration of the program, click the link below:
+
+[Demonstration Video](https://drive.google.com/file/d/1sz2pJgyNXdjZZe907DLTMi_HD9JrOJ2r/view)
+
 ## Credits
 The following websites were used to generate this project:
 
