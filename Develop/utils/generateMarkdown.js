@@ -60,8 +60,8 @@ function generateMarkdown(data) {
   To learn more about this license, click on the badge: 
   ${renderLicenseBadge(data.license)}
 
-  ## Dependencies
-  ${data.dependencies}
+  ## Installation
+  ${data.installation}
 
   ## Testing
   ${data.testing}
