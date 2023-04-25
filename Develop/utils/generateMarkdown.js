@@ -57,7 +57,7 @@ function generateMarkdown(data) {
   ## License
   ${renderLicenseSection(data.license)}
 
-  to learn more about this license, click on the badge: 
+  To learn more about this license, click on the badge: 
   ${renderLicenseBadge(data.license)}
 
   ## Dependencies
