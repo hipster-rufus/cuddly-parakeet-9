@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
   if (license === 'none') {
     return ``
   } else {
-    return `${license}`
+    return `This project is licensed under the ${license} license.`
   }
 }
 
@@ -47,7 +47,7 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   - [License](#license)
-  - [Dependencies](#dependencies)
+  - [Installation](#installation)
   - [Testing](#testing)
   - [Usage](#usage)
   - [Contribution](#contribution)
